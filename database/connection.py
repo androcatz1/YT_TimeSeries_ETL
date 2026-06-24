@@ -9,4 +9,3 @@ def get_connection():
 
 if __name__ == "__main__":
     client = get_connection()
-    print(type(client))    
